@@ -31,3 +31,5 @@ again i am doing this change for batch 072
 this time , i am tesing pol scm , this job need to be execute cst tie zone at 14:4
 
 this time i am doing some changes in the file 
+
+now i am doing this change for poll scm trigger
